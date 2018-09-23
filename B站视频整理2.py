@@ -61,6 +61,7 @@ name=提取文件名json
 如果0.blv-->1_name_1.mp4
 如果1.blv-->1_name_2.mp4
 如果2.blv-->1_name_3.mp4
+
 打开2
 name=提取文件名json
 打开文件夹
@@ -69,12 +70,11 @@ name=提取文件名json
 如果2.blv-->1_name_3.mp4
 '''
 
-
-# D:\新建文件夹 (2)\24768482     D:\新建文件夹
-def get_video(path, name, seris, dstfile):  # path=D:\24768482\1 || dstfile=操作系统_清华大学(向勇、陈渝)
+#D:\新建文件夹 (2)\24768482     D:\新建文件夹
+def get_video(path_3, name, seris, dstfile, path): #path=D:\24768482\1 || dstfile=操作系统_清华大学(向勇、陈渝)
     file_list = os.listdir('.')  # ['entry.json', 'lua.flv720.bili2api.64']
     for file_name in file_list:
-        abs_path = os.path.join(path, file_name)  # abs_path = D:\6538245\1\entry.json
+        abs_path = os.path.join(path_3, file_name)  # abs_path = D:\6538245\1\entry.json
         if os.path.isdir(abs_path):  # 如果是文件夹
             os.chdir(abs_path)  # 进入 D:\6538245\2\lua.flv.bili2api.80
             for i in range(int(len(os.listdir(abs_path))/2)+2):
@@ -86,59 +86,75 @@ def get_video(path, name, seris, dstfile):  # path=D:\24768482\1 || dstfile=操�
                         new_name = name + '.mp4'
                     os.renames(old_name, new_name)
                     print('正在重命名 %s ----> %s ...' % (old_name, new_name))
-                    move_file(os.path.abspath(new_name), os.path.join(os.path.join(path2, dstfile), new_name))
+                    move_file(os.path.abspath(new_name), os.path.join(os.path.join(path2, dstfile), new_name), path)
 
 
-def move_file(srcfile,
-              dstfile):  # scrfile='D:\6538245\1\lua.flv.bili2api.80\1_0  1.2 什么是操作系统.mp4' dstfile='D:\操作系统_清华大学(向勇、陈渝)\1_0  1.2 什么是操作系统.mp4'
+def move_file(srcfile,dstfile, path):  # scrfile='D:\6538245\1\lua.flv.bili2api.80\1_0  1.2 什么是操作系统.mp4' dstfile='D:\操作系统_清华大学(向勇、陈渝)\1_0  1.2 什么是操作系统.mp4'
     path_dir, name = os.path.split(dstfile)  # 分离文件名和路径 path_dir=D:\操作系统_清华大学(向勇、陈渝) name=1_0  1.2 什么是操作系统.mp4
     if not os.path.exists(path_dir):
         os.makedirs(path_dir)  # 创建路径
-    shutil.move(srcfile, dstfile)  # 移动文件
-    print('正在移动 %s ----> %s ...' % (name, path_dir))
+    try:
+        shutil.move(srcfile, dstfile)  # 移动文件
+        print('正在移动 %s ----> %s ...' % (name, path_dir))
+    except FileNotFoundError:
+        print('文件名冲突，文件以移动至源文件夹。')
+        shutil.move(srcfile, path)  # 移动文件
+        print('正在移动 %s ----> %s ...' % (name, path))
     return path_dir
 
 
-def get_danmaku(path, name, path_dir, n):
-    if os.path.exists(os.path.join(path, 'danmaku.xml')):
-        with open(os.path.join(path, 'danmaku.xml'), 'r', encoding='utf8') as f:
+def get_danmaku(path_3, name, path_dir, n, path):
+    if os.path.exists(os.path.join(path_3, 'danmaku.xml')):
+        with open(os.path.join(path_3, 'danmaku.xml'), 'r', encoding='utf8') as f:
             file = f.read()
         element = etree.HTML(file.encode('utf8'))
         content = element.xpath('//d/text()')
         danmaku_file = os.path.join(path_dir)
         if not os.path.exists(danmaku_file):
             os.mkdir(danmaku_file)
-        with open(os.path.join(danmaku_file, '弹幕.txt'), 'a', encoding='utf8') as f1:
-            f1.write('-' * 5 + name + '-' * 5 + '\n')
-            for con in content:
-                f1.write(con + '\n')
-            f1.write('\n' * 3)
-        print('第%s集弹幕装填完毕...' % n)
-        print('\n')
-
+        try:
+            with open(os.path.join(danmaku_file, '弹幕.txt'), 'a', encoding='utf8') as f1:
+                f1.write('-' * 5 + name + '-' * 5 + '\n')
+                for con in content:
+                    f1.write(con + '\n')
+                f1.write('\n' * 3)
+            print('第%s集弹幕装填完毕...' % n)
+            print('\n')
+        except FileNotFoundError:
+            if n == 1:
+                print('文件名冲突，无法在该文件夹创建弹幕...\n\n\n')
+            with open(os.path.join(path, '弹幕.txt'), 'a', encoding='utf8') as f1:
+                f1.write('-' * 5 + name + '-' * 5 + '\n')
+                for con in content:
+                    f1.write(con + '\n')
+                f1.write('\n' * 3)
+            print('第%s集弹幕装填完毕...' % n)
+            print('\n')
 
 def main(path):
     remove = True
     n = max(list(map(lambda x: int(x), os.listdir(path))))  # n=最大文件夹int
     os.chdir(path)  # 进入D:\15123338
     for i in range(1, n + 1):
-        try:
-            os.chdir(str(i))  # 进入D:\15123338\1
-            path_3 = os.getcwd()  # path_3=D:\15123338\1
-            try:
-                with open('entry.json', 'r', encoding='utf8') as f:
-                    file = f.read()
-                    name = json.loads(file)['page_data']['part']  # name = 1.2 什么是操作系统
-                    dstfile = json.loads(file)['title']  # dstfile = 操作系统_清华大学(向勇、陈渝)
-                get_video(path_3, name=name, seris=i, dstfile=dstfile)
-                get_danmaku(path_3, name, os.path.join(path2, dstfile), i)
-            except:
-                remove = False
-                print('处理第 %s 集出现错误!\n' % i)
-            finally:
-                os.chdir(path)
-        except:
-            pass
+        # try:
+        os.chdir(str(i))  # 进入D:\15123338\1
+        path_3 = os.getcwd() #path_3=D:\15123338\1
+        # try:
+        with open('entry.json', 'r', encoding='utf8') as f:
+            file = f.read()
+            name = json.loads(file)['page_data']['part']  # name = 1.2 什么是操作系统
+            if [''] in name:
+                name.replace('', '')
+            dstfile = json.loads(file)['title']  # dstfile = 操作系统_清华大学(向勇、陈渝)
+        get_video(path_3=path_3, name=name, seris=i, dstfile=dstfile, path=path)
+        get_danmaku(path_3, name, os.path.join(path2, dstfile), i, path)
+        # except:
+        #     remove = False
+        #     print('处理第 %s 集出现错误!\n' % i)
+        # finally:
+        os.chdir(path)
+        # except:
+        #     pass
 
     if delete == 'Y':
         try:
@@ -150,20 +166,22 @@ def main(path):
 
 
 if __name__ == '__main__':
-    print('-' * 5 + '此程序仅用于整理B站视频,技术受限,并不能合并分段视频.请勿用作其他商业用途.' + '-' * 5)
-    print('*' * 5 + '程序作者:饮冰十年_难凉热血  有问题请联系QQ:821346679' + '*' * 5)
+    print('-'*5+'此程序仅用于整理B站视频,技术受限,并不能合并分段视频.请勿用作其他商业用途.'+'-'*5)
+    print('*'*5+'程序作者:饮冰十年_难凉热血  有问题请联系QQ:821346679'+'*'*5)
     print('')
     print(r'手机缓存好之后一般在 [Android\data\tv.danmaku.bili\download] 里面.')
     while True:
         print('\n')
-        try:
-            path = input('请输入源地址,例如(D:\\24329135):')
-            clear_name = input('是否需要重新整理文件名?(Y/N):').upper()
-            delete = input('移动完成后是否删除源文件夹及其所有文件?(Y/N):').upper()
-            path2 = input('请输入整理后地址,例如(D:\\video):')
-            print('\n\n')
-            main(path)
-        except:
-            print('输入有误或文件格式异常,请检查后重新输入!')
+        # try:
+        path = input('请输入源地址,例如(D:\\24329135):')
+        clear_name = input('是否需要重新整理文件名?(Y/N):').upper()
+        delete = input('移动完成后是否删除源文件夹及其所有文件?(Y/N):').upper()
+        path2 = input('请输入整理后地址,例如(D:\\video):')
+        if path2[-1] == ':':
+            path2 = path2+'\\'
+        print('\n\n')
+        main(path)
+        # except:
+        #     print('输入有误或文件格式异常,请检查后重新输入!')
     # os.remove(r'D:\24329135')
     # print(os.path.abspath(os.path.join(os.path.dirname(__file__), '../..')))
