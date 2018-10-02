@@ -49,6 +49,7 @@ def parse_page(html, keyword, detail, page, path):
             senddate = time.strftime('%Y-%m-%d', time.localtime(result['senddate']))
 
             with open(file + '.txt', 'a', encoding='utf8') as f:
+
                 f.write('标题\t: {}'.format(title) + '\n')
                 f.write('作者\t: {}'.format(author) + '\n')
                 f.write('详情\t: {}'.format(description) + '\n')
