@@ -1,12 +1,12 @@
 import requests
-import json, re, time
+import json, re
 from requests.exceptions import RequestException
 import os
 import time
 import xlwt
 
 
-class Bili():
+class Bili:
 
     def __init__(self, keyword, page):
         self.keyword = keyword  # 'python'
@@ -65,13 +65,13 @@ class Bili():
             for col, content in enumerate(contents):
                 excel.write(row, col, content)
 
-        book.save(os.path.join(path, self.keyword + '.xls')) # 已存在的excel为什么不会报错？会不会覆盖？
+        book.save(os.path.join(path, self.keyword + '.xls'))  # 已存在的excel为什么不会报错？会不会覆盖？
         print('Saved the %d page to excel success..' % page_m)
 
     def image(self, path='D:\Source\images'):
         image_dir = os.path.join(path, self.keyword)
 
-        for page_img in range(1, self.page+1):
+        for page_img in range(1, self.page + 1):
             html = self.__get_page(page_img)
             data = json.loads(html)
             results = data['data']['result']
@@ -92,8 +92,8 @@ class Bili():
                 except:
                     print('Failed in download image %s' % title)
 
+
 if __name__ == '__main__':
-    project = Bili(keyword='康纳', page=50)
+    project = Bili(keyword='猫', page=50)
     project.excel()
     # project.image()
-

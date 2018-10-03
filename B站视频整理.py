@@ -70,6 +70,7 @@ name=提取文件名json
 '''
 
 
+
 # D:\新建文件夹 (2)\24768482     D:\新建文件夹
 def get_video(path, name, seris, dstfile):  # path=D:\24768482\1 || dstfile=操作系统_清华大学(向勇、陈渝)
     file_list = os.listdir('.')  # ['entry.json', 'lua.flv720.bili2api.64']
@@ -90,7 +91,8 @@ def get_video(path, name, seris, dstfile):  # path=D:\24768482\1 || dstfile=操�
 
 
 def move_file(srcfile,
-              dstfile):  # scrfile='D:\6538245\1\lua.flv.bili2api.80\1_0  1.2 什么是操作系统.mp4' dstfile='D:\操作系统_清华大学(向勇、陈渝)\1_0  1.2 什么是操作系统.mp4'
+              dstfile):  # scrfile='D:\6538245\1\lua.flv.bili2api.80\1_0  1.2 什么是操作系统.mp4' dstfile='D:\操作系统_清华大学(
+    # 向勇、陈渝)\1_0  1.2 什么是操作系统.mp4'
     path_dir, name = os.path.split(dstfile)  # 分离文件名和路径 path_dir=D:\操作系统_清华大学(向勇、陈渝) name=1_0  1.2 什么是操作系统.mp4
     if not os.path.exists(path_dir):
         os.makedirs(path_dir)  # 创建路径
