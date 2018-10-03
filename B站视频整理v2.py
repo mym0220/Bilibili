@@ -61,7 +61,6 @@ name=提取文件名json
 如果0.blv-->1_name_1.mp4
 如果1.blv-->1_name_2.mp4
 如果2.blv-->1_name_3.mp4
-
 打开2
 name=提取文件名json
 打开文件夹
@@ -130,6 +129,7 @@ def get_danmaku(path_3, name, path_dir, n, path):
                 f1.write('\n' * 3)
             print('第%s集弹幕装填完毕...' % n)
             print('\n')
+
 
 def main(path):
     remove = True

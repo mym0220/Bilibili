@@ -1,5 +1,6 @@
 import requests
-import json, re
+import json
+import re
 from requests.exceptions import RequestException
 import os
 import time
@@ -14,6 +15,7 @@ class Bili:
         # 为什么不能再此处实例化 book 和 excel
 
     def excel(self, path='D:\Source\detail'):
+
         book = xlwt.Workbook()
         excel = book.add_sheet(self.keyword)
 
@@ -69,6 +71,10 @@ class Bili:
         print('Saved the %d page to excel success..' % page_m)
 
     def image(self, path='D:\Source\images'):
+        """
+
+        :param path:
+        """
         image_dir = os.path.join(path, self.keyword)
 
         for page_img in range(1, self.page + 1):
