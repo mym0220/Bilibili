@@ -3,7 +3,6 @@ import json
 import shutil
 from lxml import etree
 
-
 class BiliDir:
     def __init__(self, srcpath, dstpath='D:\\', delete='Y'):  # D:\新建文件夹 (2)\24768482 || D:\
         self.srcpath = srcpath
@@ -102,5 +101,5 @@ class BiliDir:
 
 
 if __name__ == '__main__':
-    bili = BiliDir('D:\\')
+    bili = BiliDir(r'C:\Users\82134\Downloads\SHAREit\HTC U-3w\Documents\10636408')
     bili.start()
