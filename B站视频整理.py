@@ -164,7 +164,7 @@ if __name__ == '__main__':
             delete = input('移动完成后是否删除源文件夹及其所有文件?(Y/N):').upper()
             path2 = input('请输入整理后地址,例如(D:\\video):')
             if path2[-1] == ':':
-                path2 = path2 + '\\'
+                path2 += '\\'
             print('\n\n')
             main(path)
         except:

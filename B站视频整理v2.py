@@ -70,7 +70,7 @@ name=提取文件名json
 '''
 
 #D:\新建文件夹 (2)\24768482     D:\新建文件夹
-def get_video(path_3, name, seris, dstfile, path): #path=D:\24768482\1 || dstfile=操作系统_清华大学(向勇、陈渝)
+def get_video(path_3, name, seris, dstfile, path): # path=D:\24768482\1 || dstfile=操作系统_清华大学(向勇、陈渝)
     file_list = os.listdir('.')  # ['entry.json', 'lua.flv720.bili2api.64']
     for file_name in file_list:
         abs_path = os.path.join(path_3, file_name)  # abs_path = D:\6538245\1\entry.json
@@ -138,7 +138,7 @@ def main(path):
     for i in range(1, n + 1):
         # try:
         os.chdir(str(i))  # 进入D:\15123338\1
-        path_3 = os.getcwd() #path_3=D:\15123338\1
+        path_3 = os.getcwd()  # path_3=D:\15123338\1
         # try:
         with open('entry.json', 'r', encoding='utf8') as f:
             file = f.read()
@@ -166,7 +166,7 @@ def main(path):
 
 
 if __name__ == '__main__':
-    # BUG 文件名有'...'时,创建完成的文件夹没有...，造成文件夹找不到的bug
+    # TODO BUG 文件名有'...'时,创建完成的文件夹没有...，造成文件夹找不到的bug
     print('-'*5+'此程序仅用于整理B站视频,技术受限,并不能合并分段视频.请勿用作其他商业用途.'+'-'*5)
     print('*'*5+'程序作者:饮冰十年_难凉热血  有问题请联系QQ:821346679'+'*'*5)
     print('')
