@@ -66,7 +66,7 @@ class BiliDir:
             shutil.move(srcfile, dstfile)  # 移动文件
             print('正在移动 %s ----> %s ...' % (name, path_dir))
         except FileNotFoundError:
-            print('文件名冲突，文件以移动至源文件夹。')
+            print('文件名冲突,文件以移动至源文件夹。')
             shutil.move(srcfile, os.path.join(self.srcpath, name))  # 移动文件
             print('正在移动 %s ----> %s ...' % (name, self.srcpath))
 
@@ -91,7 +91,7 @@ class BiliDir:
 
             except FileNotFoundError:
                 if n == 1:
-                    print('文件名冲突，无法在该文件夹创建弹幕...\n\n\n')
+                    print('文件名冲突,无法在该文件夹创建弹幕...\n\n\n')
                 with open(os.path.join(self.srcpath, '弹幕.txt'), 'a', encoding='utf8') as f1:
                     f1.write('-' * 5 + name + '-' * 5 + '\n')
                     for con in content:

@@ -91,6 +91,18 @@ def rename(new_path):  # new_path = r'D:\Python\---009_Python 定向爬虫入门
 if __name__ == '__main__':
     # rename('F:\新建文件夹\---009_Python 定向爬虫入门1')
     # rename(r'D:\新建文件夹\---009_Python 定向爬虫入门')
-    # unzip(r'D:\Django+xadmin')
+    # unzip(r'D:\PanDownload\---037_python就业班 [o]')
     mvdir = r'D:\Python\Django+xadmin\强力django+杀手级xadmin 打造上线标准的在线教育平台'
-    get_all_dir(r'D:\Python\Django+xadmin\强力django+杀手级xadmin 打造上线标准的在线教育平台')
+    main(r'D:\PanDownload\01 槽边往事(完)')
+
+    # def zippp(path):
+    #     files_list = os.listdir(path)
+    #     for zip_file in files_list:
+    #         abs_path = os.path.join(path, zip_file)
+    #         if not os.path.isdir(abs_path):
+    #             if os.path.splitext(zip_file)[-1] in ['.zip']:
+    #                 z = zipfile.ZipFile(abs_path, 'r')
+    #                 z.extractall(path=path, pwd='www.snowfox.wang'.encode('utf8'))
+    #                 print('正在解压 --> %s' % os.path.split(abs_path)[-1])
+    #
+    # zippp(r'D:\PanDownload\---037_python就业班 [o]\03数据结构与算法')

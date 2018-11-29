@@ -1,17 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/../django_xadmin/apps/users/forms.py" line="0" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3dd6dfce-e36c-4206-8d13-427e28ccb5d2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Move 2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Move.py" afterDir="false" />
+    <list default="true" id="3dd6dfce-e36c-4206-8d13-427e28ccb5d2" name="Default Changelist" comment="course/list">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/82134.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-exported-files.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Bilibili.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Bilibili.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B站视频整理.py" beforeDir="false" afterPath="$PROJECT_DIR$/B站视频整理.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B站视频整理v2.py" beforeDir="false" afterPath="$PROJECT_DIR$/B站视频整理v2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/B站视频整理v3.py" beforeDir="false" afterPath="$PROJECT_DIR$/B站视频整理v3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GET.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Move 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Move 2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Move.py" beforeDir="false" afterPath="$PROJECT_DIR$/Move.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scrapy/Scrapy_prectice/article/article/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Scrapy/Scrapy_prectice/article/article/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Scrapy/Scrapy_prectice/article/atricle.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Scrapy/Scrapy_prectice/article/atricle.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/apps/organization/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/apps/organization/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/extra_apps/xadmin/changelog.md" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/extra_apps/xadmin/changelog.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/extra_apps/xadmin/xadmin/locale/zh_Hans/LC_MESSAGES/django.po" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/extra_apps/xadmin/xadmin/locale/zh_Hans/LC_MESSAGES/django.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/css/aui.css" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/css/aui.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/deco-comment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/deco-comment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/deco-common.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/deco-common.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/deco-user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/deco-user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/jquery-xmenu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/jquery-xmenu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/lq.datetimepick.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/lq.datetimepick.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/jquery.timer.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/jquery.timer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/jquery.upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/jquery.upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/laydate/laydate.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/laydate/laydate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/queryCity/js/public.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/queryCity/js/public.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/queryCity/js/public2.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/queryCity/js/public2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/upload.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/plugins/upload.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/selectUi.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/selectUi.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/static/js/wechat.js" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/static/js/wechat.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/500.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/500.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/course/course-detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/course/course-detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/forgetpwd.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/forgetpwd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/organization/org-detail-desc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/organization/org-detail-desc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/organization/org-detail-homepage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/organization/org-detail-homepage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/organization/org_base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/organization/org_base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/password_reset.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/password_reset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/register.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../django_xadmin/templates/send_success.html" beforeDir="false" afterPath="$PROJECT_DIR$/../django_xadmin/templates/send_success.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,76 +65,263 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Bilibili$1.coverage" NAME="1 Coverage Results" MODIFIED="1542861643824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/Algorithm" />
+    <SUITE FILE_PATH="coverage/Bilibili$test.coverage" NAME="test Coverage Results" MODIFIED="1543283562768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Tornado" />
+    <SUITE FILE_PATH="coverage/Bilibili$tests.coverage" NAME="tests Coverage Results" MODIFIED="1542447523042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../django_xadmin/apps/organization" />
+    <SUITE FILE_PATH="coverage/Bilibili$.coverage" NAME="如何使用多线程 Coverage Results" MODIFIED="1543413441258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+    <SUITE FILE_PATH="coverage/Bilibili$9_4_Implement_decorator_which_can_modify_properties.coverage" NAME="9.4 Implement decorator which can modify properties Coverage Results" MODIFIED="1543463024080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+    <SUITE FILE_PATH="coverage/Bilibili$linked_list.coverage" NAME="linked list Coverage Results" MODIFIED="1542873057105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/Algorithm" />
+    <SUITE FILE_PATH="coverage/Bilibili$data_analysis.coverage" NAME="data analysis Coverage Results" MODIFIED="1543283889779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/Machine learning/pandas" />
+    <SUITE FILE_PATH="coverage/Bilibili$1__1_.coverage" NAME="1 (1) Coverage Results" MODIFIED="1542891283787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Tornado" />
+    <SUITE FILE_PATH="coverage/Bilibili$with.coverage" NAME="with实现上下文管理 Coverage Results" MODIFIED="1543406151817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+    <SUITE FILE_PATH="coverage/Bilibili$process_and_thread.coverage" NAME="process and thread Coverage Results" MODIFIED="1542628378290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python" />
+    <SUITE FILE_PATH="coverage/Bilibili$Move.coverage" NAME="Move Coverage Results" MODIFIED="1541318358747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Bilibili$03_single_link_list.coverage" NAME="03_single_link_list Coverage Results" MODIFIED="1542870354677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Temp/Temp1_code.zip/code" />
+    <SUITE FILE_PATH="coverage/Bilibili$threading1.coverage" NAME="threading1 Coverage Results" MODIFIED="1542632008514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/Multiprocessing" />
+    <SUITE FILE_PATH="coverage/Bilibili$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1542618639864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Tornado" />
+    <SUITE FILE_PATH="coverage/Bilibili$ab.coverage" NAME="如何判断字符串a是否以字符串b开始或结尾 Coverage Results" MODIFIED="1543241922763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+    <SUITE FILE_PATH="coverage/Bilibili$zhihu_login.coverage" NAME="zhihu_login Coverage Results" MODIFIED="1541129917483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Scrapy/Scrapy_prectice/article/article/utils" />
+    <SUITE FILE_PATH="coverage/Bilibili$9_2_Save_metadata_for_decorated_functions.coverage" NAME="9.2 Save metadata for decorated functions Coverage Results" MODIFIED="1543458806106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+    <SUITE FILE_PATH="coverage/Bilibili$3_4.coverage" NAME="3_4 Coverage Results" MODIFIED="1542618254970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="F:/python/Resources/技巧" />
+    <SUITE FILE_PATH="coverage/Bilibili$common.coverage" NAME="common Coverage Results" MODIFIED="1541073025057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Scrapy/Scrapy_prectice/article/article/utils" />
+    <SUITE FILE_PATH="coverage/Bilibili$9_3_Define_decoration_with_parameters.coverage" NAME="9.3 Define decoration with parameters Coverage Results" MODIFIED="1543459432016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+    <SUITE FILE_PATH="coverage/Bilibili$Pool.coverage" NAME="Pool Coverage Results" MODIFIED="1542630437524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/Multiprocessing" />
+    <SUITE FILE_PATH="coverage/Bilibili$for.coverage" NAME="如何在一个for中迭代多个对象 Coverage Results" MODIFIED="1543414886571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+    <SUITE FILE_PATH="coverage/Bilibili$queue.coverage" NAME="queue Coverage Results" MODIFIED="1542632918277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/Multiprocessing" />
+    <SUITE FILE_PATH="coverage/Bilibili$main.coverage" NAME="main Coverage Results" MODIFIED="1541688165449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Scrapy/Scrapy_prectice/article" />
+    <SUITE FILE_PATH="coverage/Bilibili$process_and_thread__1_.coverage" NAME="process and thread (1) Coverage Results" MODIFIED="1542629678170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/Multiprocessing" />
+    <SUITE FILE_PATH="coverage/Bilibili$9_1_How_to_use_decorator.coverage" NAME="9.1 How to use decorator Coverage Results" MODIFIED="1543416320583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="346" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="python@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="useSoftWraps" value="true" />
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-989825686">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="14" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="3" />
+          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.21" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="JSON" value="1" />
+          <entry key="a" value="1" />
+          <entry key="book" value="1" />
+          <entry key="cfg" value="1" />
+          <entry key="css" value="5" />
           <entry key="gitignore" value="1" />
-          <entry key="py" value="2" />
+          <entry key="html" value="58" />
+          <entry key="ipynb" value="4" />
+          <entry key="jobbole" value="6" />
+          <entry key="jpg" value="8" />
+          <entry key="js" value="1" />
+          <entry key="json" value="8" />
+          <entry key="lagou_job" value="1" />
+          <entry key="png" value="3" />
+          <entry key="py" value="471" />
+          <entry key="pyi" value="3" />
+          <entry key="sql" value="2" />
+          <entry key="sqlite3" value="1" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="5" />
+          <entry key="Database Element" value="8" />
           <entry key="Git file" value="1" />
-          <entry key="Python" value="2" />
+          <entry key="HTML" value="58" />
+          <entry key="IPNB" value="4" />
+          <entry key="Image" value="11" />
+          <entry key="Ini" value="1" />
+          <entry key="JSON" value="9" />
+          <entry key="JavaScript" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="471" />
+          <entry key="PythonStub" value="3" />
+          <entry key="SQL" value="1" />
+          <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="4" />
-          <entry key="py" value="7" />
+          <entry key="1" value="1272" />
+          <entry key="Django Console" value="2198" />
+          <entry key="cell" value="2" />
+          <entry key="dummy" value="39" />
+          <entry key="html" value="4408" />
+          <entry key="json" value="3" />
+          <entry key="py" value="36913" />
+          <entry key="py@django_xadmin" value="305" />
+          <entry key="tests" value="32" />
+          <entry key="txt" value="100" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Python" value="7" />
+          <entry key="CommandLine" value="211" />
+          <entry key="HTML" value="4408" />
+          <entry key="JSON" value="3" />
+          <entry key="PLAIN_TEXT" value="233" />
+          <entry key="Python" value="40413" />
+          <entry key="SQL" value="2" />
+          <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Move.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/9.3 Define decoration with parameters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="87" column="20" lean-forward="true" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+            <state relative-caret-position="60">
+              <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <element signature="e#46#319#0" />
-                <element signature="e#349#1408#0" />
-                <element signature="e#1684#2195#0" />
-                <element signature="e#2273#3073#0" />
+                <marker date="1543463294280" expanded="true" signature="154:159" ph="..." />
+                <marker date="1543463294280" expanded="true" signature="397:410" ph="..." />
+                <marker date="1543463294280" expanded="true" signature="841:973" ph="..." />
+                <marker date="1543463294280" expanded="true" signature="1060:1065" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Move 2.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何在互相引用的结构中管理内存.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            <state relative-caret-position="517">
+              <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-                <element signature="e#125#141#0" />
-                <element signature="e#193#530#0" />
-                <element signature="e#625#1168#0" />
-                <element signature="e#1213#1498#0" />
-                <element signature="e#1544#2091#0" />
-                <element signature="e#2183#3062#0" />
-                <element signature="e#3101#3721#0" />
-                <element signature="e#3361#3721#0" />
-                <element signature="e#3525#3721#0" />
+                <marker date="1543411480972" expanded="true" signature="28:33" ph="..." />
+                <marker date="1543411480972" expanded="true" signature="335:336" ph="..." />
+                <marker date="1543411480972" expanded="true" signature="335:340" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/读取json文件.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/9.1 Use decorator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+              <folding>
+                <marker date="1543416320576" expanded="true" signature="104:309" ph="..." />
+                <marker date="1543416320576" expanded="true" signature="424:429" ph="..." />
+                <marker date="1543416320576" expanded="true" signature="580:585" ph="..." />
+                <marker date="1543416320576" expanded="true" signature="688:842" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何让类支持比较操作.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+              <folding>
+                <marker date="1543407990998" expanded="true" signature="245:250" ph="..." />
+                <marker date="1543407990998" expanded="true" signature="765:776" ph="..." />
+                <marker date="1543407990998" expanded="true" signature="1139:1158" ph="..." />
+                <marker date="1543407990998" expanded="true" signature="1153:1154" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/让字典保持有序.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/进行反向迭代以及如何实现反向迭代.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="28" selection-start-line="28" selection-end-line="29" />
+              <folding>
+                <marker date="1543238795334" expanded="true" signature="156:237" ph="..." />
+                <marker date="1543238795334" expanded="true" signature="256:361" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/9.4 Implement decorator which can modify properties.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-18">
+              <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+              <folding>
+                <element signature="e#127#138#0" expanded="true" />
+                <marker date="1543463198083" expanded="true" signature="263:268" ph="..." />
+                <marker date="1543463198083" expanded="true" signature="656:719" ph="..." />
+                <marker date="1543463198083" expanded="true" signature="656:759" ph="..." />
+                <marker date="1543463198083" expanded="true" signature="820:975" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/Anaconda/Lib/logging/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2808" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用生成器函数实现可迭代对象.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -98,19 +331,129 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
+        <option value="Jupyter Notebook" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>机构</find>
+      <find>course_org.id</find>
+      <find>收</find>
+      <find>is_</find>
+      <find>course_o</find>
+      <find>&quot;list&quot;</find>
+      <find>下一页</find>
+      <find>course-deta</find>
+      <find>详情</find>
+      <find>jsleft</find>
+      <find>jsr</find>
+      <find>j</find>
+      <find>css</find>
+      <find>开始学习</find>
+      <find>课程公告</find>
+      <find>下载</find>
+      <find>讲师提示</find>
+      <find>main</find>
+      <find>章节</find>
+      <find>comment</find>
+      <find>return httpres</find>
+      <find>content</find>
+      <find>发表评论</find>
+      <find>学过</find>
+      <find>\.\./(.*?)&quot;</find>
+      <find>@</find>
+      <find>@p</find>
+      <find>start</find>
+      <find>，</find>
+      <find>1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'\w+': '\w+'</replace>
+      <replace>(Admin):</replace>
+      <replace>Admin:</replace>
+      <replace>/static/images</replace>
+      <replace>{% static '' %}/js</replace>
+      <replace>{% static '()' %}</replace>
+      <replace>{% static '(1)' %}</replace>
+      <replace>{% static '(.)' %}</replace>
+      <replace>{% static '(name)' %}</replace>
+      <replace>{% static '&lt;NAME&gt;' %}</replace>
+      <replace>{% static '&lt;N&gt;' %}</replace>
+      <replace>{% static '' %}</replace>
+      <replace>{% static '$1' %}</replace>
+      <replace>{% static '$1' %}&quot;/</replace>
+      <replace>{% static '$1' %}&quot;</replace>
+      <replace />
+      <replace>,</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="LimengLV &lt;821346679@qq.com&gt;" />
+        <option value="LimengLV &lt;qq821346679@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../django_xadmin" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/../My_code_way/python/Practice/多线程爬虫.py" />
+        <option value="F:/python/Resources/技巧/5_5.py" />
+        <option value="F:/python/Resources/技巧/3_4.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/process and thread.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Multiprocessing/process and thread.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Multiprocessing/Pool.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Multiprocessing/threading1.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Multiprocessing/queue.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Algorithm/1.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Algorithm/linked list.py" />
+        <option value="$PROJECT_DIR$/../Tornado/1.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/统计元素出现的频度.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/根据字典中v的大小排序.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/快速找到多个字典中的公共键.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/实现历史纪录功能.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/实现可迭代对象和迭代器对象.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用生成器函数实现可迭代对象.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/进行反向迭代以及如何实现反向迭代.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何对迭代器做切片操作.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/拆分多种分隔符的字符串.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何判断字符串a是否以字符串b开始或结尾.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何调整字符串中的文本格式.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/py skills.ipynb" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Machine learning/pandas/merge/concat/append.py" />
+        <option value="$PROJECT_DIR$/../Tornado/test.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Machine learning/pandas/合并.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/Machine learning/pandas/data analysis.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/skills/字符串左右居中对齐.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/字符串左右居中对齐.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用临时文件.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何读写csv数据.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/读取json文件.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何解析简单的xml文档.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何解析简单的xml文档and如何构建xml文档.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何派生内置不可变类型并修改其实例化行为.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何创建大量实例节省内存.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/with实现上下文管理.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/with实现上下文管理and创建可管理的对象属性.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何让类支持比较操作.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用描述符对实例属性做类型检查.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何在互相引用的结构中管理内存.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何通过实例方法名字的字符串调用方法.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用多线程.py" />
         <option value="$PROJECT_DIR$/Move 2.py" />
-        <option value="$PROJECT_DIR$/Move.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何在一个for中迭代多个对象.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9 How to use decorator.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9.1 How to use decorator.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9.2 how to save metadata for decorated functions.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9.2 Save metadata for decorated functions.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9.4 Implement decorator which can modify properties.py" />
+        <option value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9.3 Define decoration with parameters.py" />
       </list>
     </option>
   </component>
@@ -120,13 +463,29 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="54" />
-    <option name="y" value="-8" />
-    <option name="width" value="2514" />
-    <option name="height" value="1096" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="55" />
+    <option name="width" value="943" />
+    <option name="height" value="1087" />
   </component>
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyMissingOrEmptyDocstringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
@@ -134,27 +493,53 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Bilibili" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Bilibili" type="462c0819:PsiDirectoryNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bilibili" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="常用技巧" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mariadb" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="map&#9;null&#9;null&#10;test&#9;FILE&#9;file://F:/Code/django_xadmin/apps/courses/tests.py&#10;is_auth&#9;null&#9;null&#10;apps,&#9;FILE&#9;file://F:/Code/django_xadmin/apps/operation/apps.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="F:/python/Resources/技巧" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/../django_xadmin/templates/org-detail-homepage.html" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Code\My_code_way\python\常用技巧" />
+      <recent name="F:\Code\My_code_way\python\Machine learning\pandas" />
+      <recent name="F:\Code\My_code_way\python\Multiprocessing" />
+      <recent name="F:\Code\django_xadmin\templates\course" />
+      <recent name="F:\Code\django_xadmin\templates\organization" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Code\django_xadmin\templates" />
+      <recent name="F:\Code\django_xadmin\media" />
+      <recent name="F:\Code\django_xadmin\static" />
+      <recent name="F:\Code\django_xadmin" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -168,6 +553,277 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Python.9.4 Implement decorator which can modify properties">
+    <configuration name="Unnamed" type="NodeWebKit" factoryName="NW.js">
+      <method v="2" />
+    </configuration>
+    <configuration name="9.1 How to use decorator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\Code\My_code_way\python\常用技巧\9.1 Use decorator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9.2 Save metadata for decorated functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9.2 Save metadata for decorated functions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9.3 Define decoration with parameters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9.3 Define decoration with parameters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="9.4 Implement decorator which can modify properties" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My_code_way/python/常用技巧/9.4 Implement decorator which can modify properties.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
+      <module name="Bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="如何派生内置不可变类型并修改其实例化行为" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何派生内置不可变类型并修改其实例化行为.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="拆分多种分隔符的字符串" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My_code_way/python/常用技巧/拆分多种分隔符的字符串.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="为元组的每个元素命名，提高程序可读性" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My_code_way/python/常用技巧/为元组的每个元素命名，提高程序可读性.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Bilibili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="如何在一个for中迭代多个对象" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../My_code_way/python/常用技巧" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../My_code_way/python/常用技巧/如何在一个for中迭代多个对象.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="django_xadmin" type="Python.DjangoServer" factoryName="Django server">
+      <module name="django_xadmin" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django_xadmin.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.django_xadmin" />
+      <item itemvalue="NW.js.Unnamed" />
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.如何在一个for中迭代多个对象" />
+      <item itemvalue="Python.9.1 How to use decorator" />
+      <item itemvalue="Python.9.2 Save metadata for decorated functions" />
+      <item itemvalue="Python.9.3 Define decoration with parameters" />
+      <item itemvalue="Python.9.4 Implement decorator which can modify properties" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.9.4 Implement decorator which can modify properties" />
+        <item itemvalue="Python.9.3 Define decoration with parameters" />
+        <item itemvalue="Python.9.2 Save metadata for decorated functions" />
+        <item itemvalue="Python.9.1 How to use decorator" />
+        <item itemvalue="Python.如何在一个for中迭代多个对象" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_FIELDS" />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -179,33 +835,75 @@
       <option name="presentableId" value="Default" />
       <updated>1540997935047</updated>
     </task>
+    <task id="LOCAL-00001" summary="new org_detail html">
+      <created>1542185245672</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1542185245672</updated>
+    </task>
+    <task id="LOCAL-00002" summary="course/list">
+      <created>1542253064194</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542253064194</updated>
+    </task>
+    <task id="LOCAL-00003" summary="course/video&#10;course/detail">
+      <created>1542295024619</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1542295024619</updated>
+    </task>
+    <task id="LOCAL-00004" summary="complete django in this stage">
+      <created>1542447646051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1542447646051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="54" y="-8" width="2514" height="1096" extended-state="0" />
+    <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979626" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.23" visible="true" weight="0.21775083" />
+      <window_info id="Structure" order="1" sideWeight="0.77" side_tool="true" weight="0.29658213" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" x="1843" y="-1049" width="726" height="1048" id="manage.py@django_xadmin" order="0" sideWeight="0.49944875" weight="0.16008316" />
+      <window_info anchor="bottom" id="Database Console" order="1" weight="0.3298647" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.28616026" />
+      <window_info anchor="bottom" x="1843" y="-1049" width="726" height="1048" id="Run" order="4" sideWeight="0.6080485" visible="true" weight="0.47658688" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.5192508" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" sideWeight="0.49889746" weight="0.3080125" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" sideWeight="0.49944875" weight="0.32882413" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.43109152" side_tool="true" weight="0.3798127" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.5915105" weight="0.5941727" />
+      <window_info anchor="bottom" x="451" y="124" width="756" height="852" id="Python Console" order="14" sideWeight="0.5689085" weight="0.30905306" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3296582" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.24972437" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.49874476" weight="0.32855567" />
+      <window_info anchor="right" id="Database" order="5" sideWeight="0.49778172" weight="0.3092613" />
+      <window_info anchor="right" x="0" y="0" width="418" height="896" id="Documentation" order="6" sideWeight="0.5022183" side_tool="true" weight="0.3296582" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,46 +912,471 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new org_detail html" />
+    <MESSAGE value="course/list" />
+    <MESSAGE value="course/video&#10;course/detail" />
+    <MESSAGE value="complete django in this stage" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete django in this stage" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../django_xadmin/apps/utils/email_send.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../django_xadmin/apps/users/views.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../django_xadmin/apps/users/views.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="response.meta" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>post_url</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/根据字典中v的大小排序.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" />
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Move.py">
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/实现历史纪录功能.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/实现可迭代对象和迭代器对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1543227676550" expanded="true" signature="120:125" ph="..." />
+            <marker date="1543227676550" expanded="true" signature="663:668" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何对迭代器做切片操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/拆分多种分隔符的字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/为元组的每个元素命名，提高程序可读性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/.ipynb_checkpoints/Untitled-checkpoint.ipynb" />
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何调整字符串中的文本格式.py" />
+    <entry file="file://E:/Anaconda/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="685" selection-start-line="685" selection-end-line="685" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/Machine learning/pandas/merge/concat/append.py" />
+    <entry file="file://$PROJECT_DIR$/../Tornado/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/site-packages/quandl/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/Machine learning/pandas/data analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/Machine learning/pandas/合并.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/py skills.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/Machine learning/base/base1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-622" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何判断字符串a是否以字符串b开始或结尾.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/1.html" />
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/字符串左右居中对齐.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用临时文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何读写csv数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何派生内置不可变类型并修改其实例化行为.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1543397895896" expanded="true" signature="190:195" ph="..." />
+            <marker date="1543397895896" expanded="true" signature="224:233" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何创建大量实例节省内存.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="8" />
+          <folding>
+            <marker date="1543459918888" expanded="true" signature="26:31" ph="..." />
+            <marker date="1543459918888" expanded="true" signature="342:351" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-727401014/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="4062" column="8" selection-start-line="4062" selection-start-column="8" selection-end-line="4062" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/with实现上下文管理and创建可管理的对象属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <marker date="1543459917106" expanded="true" signature="535:563" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/快速找到多个字典中的公共键.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="308" selection-start-line="308" selection-end-line="308" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用描述符对实例属性做类型检查.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+          <folding>
+            <marker date="1543410500358" expanded="true" signature="11:16" ph="..." />
+            <marker date="1543410500358" expanded="true" signature="177:225" ph="..." />
+            <marker date="1543410500358" expanded="true" signature="941:946" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/Other/map and reduce.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="25" lean-forward="true" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/operator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="304" column="8" selection-start-line="304" selection-start-column="8" selection-end-line="304" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何通过实例方法名字的字符串调用方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <marker date="1543412779990" expanded="true" signature="134:139" ph="..." />
+            <marker date="1543412779990" expanded="true" signature="566:571" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何解析简单的xml文档and如何构建xml文档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/Multiprocessing/Pool.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用多线程.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="87" column="20" lean-forward="true" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何在一个for中迭代多个对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="14" lean-forward="true" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#46#319#0" />
-            <element signature="e#349#1408#0" />
-            <element signature="e#1684#2195#0" />
-            <element signature="e#2273#3073#0" />
+            <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-727401014/sys.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="348" column="8" selection-start-line="348" selection-start-column="8" selection-end-line="348" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Move 2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        <state relative-caret-position="327">
+          <caret line="114" column="25" lean-forward="true" selection-start-line="114" selection-start-column="25" selection-end-line="114" selection-end-column="25" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <element signature="e#125#141#0" />
-            <element signature="e#193#530#0" />
-            <element signature="e#625#1168#0" />
-            <element signature="e#1213#1498#0" />
-            <element signature="e#1544#2091#0" />
-            <element signature="e#2183#3062#0" />
-            <element signature="e#3101#3721#0" />
-            <element signature="e#3361#3721#0" />
-            <element signature="e#3525#3721#0" />
+            <marker date="1543414355496" expanded="true" signature="3753:4010" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/Anaconda/Lib/functools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="43" column="4" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../django_xadmin/extra_apps/xadmin/xadmin/views/edit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="320" column="39" selection-start-line="320" selection-start-column="39" selection-end-line="320" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/9.2 Save metadata for decorated functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
+          <folding>
+            <marker date="1543457525769" expanded="true" signature="20:152" ph="..." />
+            <marker date="1543457525769" expanded="true" signature="162:375" ph="..." />
+            <marker date="1543457525769" expanded="true" signature="524:529" ph="..." />
+            <marker date="1543457525769" expanded="true" signature="848:853" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何使用生成器函数实现可迭代对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何在互相引用的结构中管理内存.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          <folding>
+            <marker date="1543411480972" expanded="true" signature="28:33" ph="..." />
+            <marker date="1543411480972" expanded="true" signature="335:336" ph="..." />
+            <marker date="1543411480972" expanded="true" signature="335:340" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/如何让类支持比较操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <folding>
+            <marker date="1543407990998" expanded="true" signature="245:250" ph="..." />
+            <marker date="1543407990998" expanded="true" signature="765:776" ph="..." />
+            <marker date="1543407990998" expanded="true" signature="1139:1158" ph="..." />
+            <marker date="1543407990998" expanded="true" signature="1153:1154" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/让字典保持有序.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/进行反向迭代以及如何实现反向迭代.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" selection-start-line="28" selection-end-line="29" />
+          <folding>
+            <marker date="1543238795334" expanded="true" signature="156:237" ph="..." />
+            <marker date="1543238795334" expanded="true" signature="256:361" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/读取json文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/9.1 Use decorator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="52" column="24" selection-start-line="52" selection-start-column="24" selection-end-line="52" selection-end-column="24" />
+          <folding>
+            <marker date="1543416320576" expanded="true" signature="104:309" ph="..." />
+            <marker date="1543416320576" expanded="true" signature="424:429" ph="..." />
+            <marker date="1543416320576" expanded="true" signature="580:585" ph="..." />
+            <marker date="1543416320576" expanded="true" signature="688:842" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Anaconda/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2808" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/9.4 Implement decorator which can modify properties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-18">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#127#138#0" expanded="true" />
+            <marker date="1543463198083" expanded="true" signature="263:268" ph="..." />
+            <marker date="1543463198083" expanded="true" signature="656:719" ph="..." />
+            <marker date="1543463198083" expanded="true" signature="656:759" ph="..." />
+            <marker date="1543463198083" expanded="true" signature="820:975" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../My_code_way/python/常用技巧/9.3 Define decoration with parameters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="37" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1543463294280" expanded="true" signature="154:159" ph="..." />
+            <marker date="1543463294280" expanded="true" signature="397:410" ph="..." />
+            <marker date="1543463294280" expanded="true" signature="841:973" ph="..." />
+            <marker date="1543463294280" expanded="true" signature="1060:1065" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.12718786" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

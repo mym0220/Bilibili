@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Bilibili.iml" filepath="$PROJECT_DIR$/.idea/Bilibili.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My_code_way/python/Mysql/.idea/Mysql.iml" filepath="$PROJECT_DIR$/../My_code_way/python/Mysql/.idea/Mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scrapy/Scrapy_prectice/.idea/Scrapy_prectice.iml" filepath="$PROJECT_DIR$/../Scrapy/Scrapy_prectice/.idea/Scrapy_prectice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tornado/.idea/Tornado.iml" filepath="$PROJECT_DIR$/../Tornado/.idea/Tornado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_xadmin/.idea/django_xadmin.iml" filepath="$PROJECT_DIR$/../django_xadmin/.idea/django_xadmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../My_code_way/python/.idea/python.iml" filepath="$PROJECT_DIR$/../My_code_way/python/.idea/python.iml" />
     </modules>
   </component>
 </project>

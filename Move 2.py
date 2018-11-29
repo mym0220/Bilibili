@@ -1,7 +1,7 @@
 import os
 import shutil
 import zipfile
-
+import tarfile
 
 class Move:
     def __init__(self, path):  # path='F:\---009_Python 定向爬虫入门'
@@ -103,6 +103,16 @@ class Move:
                     except:
                         print('移动 %s 失败!\n' % abs_path)
 
+def tar(tfname):
+    tf = tarfile.open(tfname, 'w:gz')
+    for fname in os.listdir('.'):
+        if fname.endswith('.xml'):
+            tf.add(fname)
+            os.remove(fname)
+    tf.close()
+
+    if not tf.members:  # if tf is Null, delete it
+        os.remove(tfname)
 
 if __name__ == '__main__':
     loc = ''
