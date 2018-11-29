@@ -6,7 +6,7 @@
 - 有任何问题可以加QQ群:219846920 
 ---
 ### 软件食用方法[视频]
-- [Youtube](https://www.youtube.com/watch?v=nuPFu6QBeK8&t=100s)   <*因为版权原因无法上传B站*>
+- [Youtube](https://www.youtube.com/watch?v=nuPFu6QBeK8)   <*因为版权原因无法上传B站*>
 - [百度云](https://pan.baidu.com/s/1mfh2m1l-jTlxG_dXTq0u2g)
 
 ---
